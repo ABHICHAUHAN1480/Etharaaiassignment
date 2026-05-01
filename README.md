@@ -2,6 +2,10 @@
 
 A full-stack project management app with authentication, projects, members, and task assignment.
 
+## Live Link
+
+https://etharaaiassignment-production-f964.up.railway.app/
+
 ## Tech Stack
 
 - Frontend: React, Vite, Tailwind CSS, Axios, React Router
