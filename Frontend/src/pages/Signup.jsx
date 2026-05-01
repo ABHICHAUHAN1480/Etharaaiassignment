@@ -71,8 +71,8 @@ const Signup = () => {
                 onChange={(e) => setEmail(e.target.value)}
                 className="field-input"
                 placeholder="you@example.com"
-                autoComplete="email"
                 required
+                pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
               />
             </div>
             <div>
